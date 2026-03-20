@@ -12,7 +12,7 @@ export default function PrivacyPage() {
 
           <h2 className="font-bold">一、信息收集与存储说明</h2>
           <p className="font-bold">1.1 账号与登录</p>
-          <p>• 游戏内"注册/登录/实名"全程调用 TapSDK；QZQ Studio 仅收到 TapTap 返回的 匿名 openId 及 年龄段标识（16+），不获取手机号、身份证、昵称、头像等任何原始个人信息。</p>
+          <p>• 游戏内&quot;注册/登录/实名&quot;全程调用 TapSDK；QZQ Studio 仅收到 TapTap 返回的 匿名 openId 及 年龄段标识（16+），不获取手机号、身份证、昵称、头像等任何原始个人信息。</p>
           <p className="font-bold">1.2 游戏进度</p>
           <p>• 存档、成就、排行榜全部写入 TapTap 云存档；本地仅保留加密缓存，卸载即彻底删除。</p>
           <p className="font-bold">1.3 设备与日志</p>
@@ -47,14 +47,14 @@ export default function PrivacyPage() {
 
           <h2 className="font-bold">四、您的权利</h2>
           <p className="font-bold">4.1 查询/更正/删除：</p>
-          <p>请在 TapTap 客户端"账号→隐私中心"自助操作；TapTap 完成处理后，游戏端同步生效。</p>
+          <p>请在 TapTap 客户端&quot;账号→隐私中心&quot;自助操作；TapTap 完成处理后，游戏端同步生效。</p>
           <p className="font-bold">4.2 注销：</p>
-          <p>在 TapTap 账号中心申请"永久注销"，注销后 15 日内 TapTap 删除其侧全部数据，游戏侧匿名缓存随之清空。</p>
+          <p>在 TapTap 账号中心申请&quot;永久注销&quot;，注销后 15 日内 TapTap 删除其侧全部数据，游戏侧匿名缓存随之清空。</p>
           <p className="font-bold">4.3 撤回同意：</p>
           <p>关闭 TapTap 授权或卸载游戏即可；QZQ Studio 不保留任何副本。</p>
 
           <h2 className="font-bold">五、未成年人保护</h2>
-          <p>本游戏禁止 16 岁以下用户进入。TapTap 实名系统未返回"16+"标识时，游戏自动强制退出。监护人发现未成年人已绕过限制的，可邮件至 sa@hpyshark.com，我们将在 3 个工作日内联动 TapTap 进行账号封禁与数据清除。</p>
+          <p>本游戏禁止 16 岁以下用户进入。TapTap 实名系统未返回&quot;16+&quot;标识时，游戏自动强制退出。监护人发现未成年人已绕过限制的，可邮件至 sa@hpyshark.com，我们将在 3 个工作日内联动 TapTap 进行账号封禁与数据清除。</p>
 
           <h2 className="font-bold">六、协议变更</h2>
           <p>如因版本更新或法规变动需调整本协议，将通过 TapTap 社区公告 与游戏登录弹窗提示；若您继续使用即视为接受更新内容。</p>
