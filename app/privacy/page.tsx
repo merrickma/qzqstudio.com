@@ -37,10 +37,15 @@ export default function PrivacyPage() {
               <p>• 收集目的：用于反作弊系统（Epic Online Services Anti-Cheat）实时检测异常输入行为，防止外挂程序模拟真实设备操作，保障游戏公平性；数据仅在本地实时处理，不上传至 Epic 服务器。</p>
               <p>• 隐私政策：<a href="https://www.epicgames.com/site/zh-CN/privacypolicy" target="_blank" rel="noopener noreferrer" className="underline">https://www.epicgames.com/site/zh-CN/privacypolicy</a></p>
             </div>
+            <div>
+              <p className="font-bold">③ 穿山甲 SDK（北京巨量引擎网络技术有限公司）</p>
+              <p>• 收集信息：设备 MAC 地址。</p>
+              <p>• 收集目的：用于广告投放与监测、广告反作弊及安全风控。</p>
+            </div>
           </div>
 
           <h2 className="font-bold">二、信息使用目的</h2>
-          <p>① 确认用户已通过实名且年满 16 周岁；<br />② 读取 TapTap 云存档以同步游戏进度；<br />③ 基于匿名汇总数据修复 BUG 与平衡关卡难度；<br />④ TapSDK 使用 Android ID 作为设备唯一标识，用于关联崩溃日志与反作弊记录，确保问题可追溯；<br />⑤ Epic Online Services SDK 读取设备传感器数据，仅用于本地实时反作弊检测，不涉及个人身份信息的上传或存储。</p>
+          <p>① 确认用户已通过实名且年满 16 周岁；<br />② 读取 TapTap 云存档以同步游戏进度；<br />③ 基于匿名汇总数据修复 BUG 与平衡关卡难度；<br />④ TapSDK 使用 Android ID 作为设备唯一标识，用于关联崩溃日志与反作弊记录，确保问题可追溯；<br />⑤ Epic Online Services SDK 读取设备传感器数据，仅用于本地实时反作弊检测，不涉及个人身份信息的上传或存储；<br />⑥ 穿山甲 SDK 读取 MAC 地址，用于广告投放与监测、反作弊风控以及安全检测。</p>
 
           <h2 className="font-bold">三、信息共享与公开</h2>
           <p>QZQ Studio 无个人数据存储，因此不存在共享、转让或公开披露情形；如未来业务变更需自建服务器，将先行更新协议并重新征得您的明示同意。</p>
